@@ -1,0 +1,50 @@
+{
+  "predictions": [
+    0,
+    1,
+    1,
+    0,
+    1
+  ]
+}
+0.5714285714285715
+{
+  "mean": {
+    "exited": 0.5,
+    "lastmonth_activity": 5625.923076923077,
+    "lastyear_activity": 763.5384615384615,
+    "number_of_employees": 457.46153846153845
+  },
+  "median": {
+    "exited": 0.5,
+    "lastmonth_activity": 425.0,
+    "lastyear_activity": 97.5,
+    "number_of_employees": 99.0
+  },
+  "std": {
+    "exited": 0.5099019513592785,
+    "lastmonth_activity": 19444.774621317832,
+    "lastyear_activity": 2016.6093569309696,
+    "number_of_employees": 800.6048328991891
+  }
+}
+[
+  {
+    "missing %": {
+      "corporation": 0.0,
+      "exited": 0.0,
+      "lastmonth_activity": 0.0,
+      "lastyear_activity": 0.0,
+      "number_of_employees": 0.0
+    }
+  },
+  {
+    "timing": {
+      "ingestion_time": 0.5349995829999443,
+      "training_time": 1.5648896590000732
+    }
+  },
+  {
+    "packages_table": "Package    Version Latest      Type \n---------- ------- ----------- -----\ndistlib    0.3.4   0.3.6       wheel\npathlib2   2.3.6   2.3.7.post1 wheel\npip        19.2.3  20.3.4      wheel\nvirtualenv 20.13.0 20.15.1     wheel\n"
+  }
+]
